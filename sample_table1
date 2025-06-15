@@ -1,3 +1,4 @@
+employees
 | emp\_id | emp\_name   | department\_id |
 | ------- | ----------- | -------------- |
 | 1       | Aarav Singh | 10             |
