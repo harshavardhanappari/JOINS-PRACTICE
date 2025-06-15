@@ -11,3 +11,7 @@ OUTPUT OF LEFT JOIN :
 OUTPUT OF RIGHT JOIN:
 
 ![Image](https://github.com/user-attachments/assets/779b8d20-3af1-4e3d-a221-b2366092e53d)
+
+OUTPUT OF FULL OUTER JOIN:
+
+![Image](https://github.com/user-attachments/assets/6048d152-cc57-491c-8a61-7284b7f2f6f6)
