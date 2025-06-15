@@ -7,3 +7,7 @@ OUTPUT OF INNER JOIN :
 OUTPUT OF LEFT JOIN :
 
 ![Image](https://github.com/user-attachments/assets/61a5f71b-782f-495e-975c-7159aafeac2c)
+
+OUTPUT OF RIGHT JOIN:
+
+![Image](https://github.com/user-attachments/assets/779b8d20-3af1-4e3d-a221-b2366092e53d)
