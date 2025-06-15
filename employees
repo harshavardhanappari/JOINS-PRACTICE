@@ -1,0 +1,9 @@
+| emp\_id | emp\_name   | department\_id |
+| ------- | ----------- | -------------- |
+| 1       | Aarav Singh | 10             |
+| 2       | Meera Iyer  | 20             |
+| 3       | Rahul Verma | 30             |
+| 4       | Kavya Nair  | 40             |
+| 5       | Anuj Gupta  | NULL           |
+| 6       | Priya Desai | 50             |
+| 7       | Aman Tiwari | NULL           |
