@@ -1,0 +1,8 @@
+departments
+| department\_id | department\_name |
+| -------------- | ---------------- |
+| 10             | Human Resources  |
+| 20             | Finance          |
+| 30             | IT               |
+| 50             | Marketing        |
+| 60             | Legal            |
